@@ -1,0 +1,51 @@
+# Enunciado do Projeto: Classificador de Faixa Etária
+
+## Objetivo
+
+Desenvolver um programa em Python que determina a faixa etária de uma pessoa com base na sua idade. O programa deve classificar a idade nas seguintes faixas etárias e exibir a classificação correspondente.
+
+## Especificações
+
+1. **Leitura da Idade**
+   - O programa deve solicitar ao usuário que insira a sua idade.
+
+2. **Verificação da Faixa Etária**
+   - O programa deve classificar a idade nas seguintes faixas etárias:
+     - **Criança:** Idade menor ou igual a 12 anos.
+     - **Adolescente:** Idade maior que 12 e menor ou igual a 17 anos.
+     - **Adulto:** Idade maior que 17 e menor ou igual a 64 anos.
+     - **Idoso:** Idade maior que 64 anos.
+
+3. **Exibição da Faixa Etária**
+   - O programa deve exibir a faixa etária correspondente à idade fornecida.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e organizado, com tratamento básico para garantir que a entrada seja um número válido.
+- Certifique-se de corrigir erros de digitação nas variáveis no código original para garantir que a saída esteja correta.
+
+## Observações
+
+- Caso a faixa etária ou as categorias mudem, atualize o código conforme necessário.
+
+# Classificador de Faixa Etária
+
+Este é um programa simples em Python que classifica a faixa etária de uma pessoa com base na sua idade. O programa lê a idade fornecida pelo usuário e determina a faixa etária correspondente, exibindo a classificação apropriada.
+
+## Funcionalidades
+
+- **Leitura da Idade:** O programa solicita ao usuário que insira a sua idade.
+- **Verificação da Faixa Etária:** O programa classifica a idade nas seguintes faixas etárias:
+  - **Criança:** Idade menor ou igual a 12 anos.
+  - **Adolescente:** Idade maior que 12 e menor ou igual a 17 anos.
+  - **Adulto:** Idade maior que 17 e menor ou igual a 64 anos.
+  - **Idoso:** Idade maior que 64 anos.
+- **Exibição da Faixa Etária:** O programa exibe a faixa etária correspondente à idade fornecida.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/classificador-faixa-etaria.git
